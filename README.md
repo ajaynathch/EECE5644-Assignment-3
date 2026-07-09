@@ -1,4 +1,4 @@
-# EECE 6544 — Assignment #03: WheelsBazaar Used-Car Price Prediction
+# EECE 5644: Assignment #03: WheelsBazaar Used-Car Price Prediction
 
 Predicts the **fair market price** of a used car from its attributes, for WheelsBazaar's
 listing-review guardrails and the WheelsBazaar Direct instant-buy program.

@@ -32,7 +32,6 @@ Top price drivers (permutation importance): car age, engine power, brand, and ki
 
 ## Reproduce
 ```bash
-python3 build_notebook.py
 python3 -m jupyter nbconvert --to notebook --execute --inplace WheelsBazaar_Car_Price_Prediction.ipynb
 ```
 
